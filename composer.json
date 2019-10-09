@@ -1,0 +1,17 @@
+{
+    "name": "arcoinformatica/bolota",
+    "type": "library",
+    "description": "A small package with functions to websites development",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dian Carlos",
+            "email": "dian.cabral@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Bolota": "/"
+        }
+    }
+}
