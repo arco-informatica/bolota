@@ -1,5 +1,6 @@
 {
-    "name": "arco-informatica/bolota",
+    "name": "arcoinformatica/bolota",
+    "version": "1.0.1",
     "type": "library",
     "description": "A small package with functions to websites development",
     "license": "MIT",
